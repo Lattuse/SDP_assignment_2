@@ -1,4 +1,4 @@
-package realestate;
+package realestate.factorymethod;
 
 public class OfficeAgency extends RealEstateAgency {
     @Override

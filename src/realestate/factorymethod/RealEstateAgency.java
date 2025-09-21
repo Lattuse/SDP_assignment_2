@@ -1,4 +1,4 @@
-package realestate;
+package realestate.factorymethod;
 
 public abstract class RealEstateAgency {
     public abstract Property createProperty();
@@ -9,3 +9,4 @@ public abstract class RealEstateAgency {
         p.showInfo();
     }
 }
+

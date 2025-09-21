@@ -1,4 +1,4 @@
-package realestate;
+package realestate.factorymethod;
 
 public class Apartment implements Property {
     @Override

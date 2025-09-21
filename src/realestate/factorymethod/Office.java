@@ -1,4 +1,4 @@
-package realestate;
+package realestate.factorymethod;
 
 public class Office implements Property {
     @Override
